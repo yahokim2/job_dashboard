@@ -1,6 +1,6 @@
 # 구인 메일 Agent — 대시보드 (job_dashboard)
 
-[`job_email_agent`](../job_email_agent)가 메일에서 수집·구조화해 PostgreSQL(pgvector)에 쌓은 구인 공고를 **조회하고 관리하는 웹 대시보드**입니다. Next.js(TypeScript)로 만들었고, 공고 목록·상태 관리·삭제와 RAG 기반 질의응답 챗봇을 제공합니다.
+[`job_email_agent`](https://github.com/yahokim2/job_email_agent)가 메일에서 수집·구조화해 PostgreSQL(pgvector)에 쌓은 구인 공고를 **조회하고 관리하는 웹 대시보드**입니다. Next.js(TypeScript)로 만들었고, 공고 목록·상태 관리·삭제와 RAG 기반 질의응답 챗봇을 제공합니다.
 
 ## 주요 기능
 
